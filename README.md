@@ -9,7 +9,7 @@ I am interested in **Data Analysis**, specifically in exploring trends and insig
 
 ---
 
-### 🚀 Upcoming Projects
+### Upcoming Projects
  **Project 2: Effective Strategies for Boosting Online Traffic and Business Growth:**
 - Researching effective strategies for driving online traffic and business growth through SEO, social media, content optimization, and advertising.
 
