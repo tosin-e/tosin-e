@@ -4,7 +4,7 @@ I am interested in **Data Analysis**, specifically in exploring trends and insig
 ---
 
 ###  Data Analysis Project
- **Project 1: Transfer Fees vs. Player Performance: A Data-Driven Analysis:** *(Ongoing)*
+ **Project 1: Transfer Fees vs. Player Performance: A Data-Driven Analysis:**(personal project) *(Ongoing)*
 - Analyzing the relationship between football transfer fees and player performance, exploring their effects on contributions, psychology, and ROI.
 
 ---
