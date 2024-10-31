@@ -22,7 +22,8 @@ I am passionate about **Data Analysis**, with a focus on exploring trends and in
 ---
 ### 🤳🏼 Connect with Me
 - Email: [tosin.awofuwa@gmail.com](mailto:tosin.awofuwa@gmail.com)
-- LinkedIn: http://linkedin.com/in/tosinawofuwa
+- LinkedIn: [linkedin.com/in/tosinawofuwa](http://linkedin.com/in/tosinawofuwa)
+- Portfolio: [tosinsportfolio.b12sites.com](https://tosinsportfolio.b12sites.com/index#home)
   
 
 ---
