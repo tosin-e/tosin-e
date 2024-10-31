@@ -11,10 +11,10 @@ I am passionate about **Data Analysis**, with a focus on exploring trends and in
 
 ### Upcoming Projects
  **Project 2: Effective Strategies for Boosting Online Traffic and Business Growth:**
-- This project focuses on identifying effective strategies for enhancing online traffic and business growth. I will analyze website performance data through EDA, perform data cleaning, and visualize key findings. Additionally, I will conduct sentiment analysis on customer feedback from social media to assess marketing effectiveness.
+- This project will focus on identifying effective strategies for enhancing online traffic and business growth. I will analyze website performance data through EDA, perform data cleaning, and visualize key findings. Additionally, I will conduct sentiment analysis on customer feedback from social media to assess marketing effectiveness.
 
  **Project 3: Analyzing the Influence of Social Media Trends on Consumer Behavior:**
-- I am examining how social media trends shape purchasing decisions across the beauty, fashion, and technology sectors. This includes web scraping engagement metrics, data cleaning, and visualizing trends to understand consumer behavior. Sentiment analysis will also be employed to gain insights into customer motivations. 
+- I will examine how social media trends shape purchasing decisions across the beauty, fashion, and technology sectors. This includes web scraping engagement metrics, data cleaning, and visualizing trends to understand consumer behavior. Sentiment analysis will also be employed to gain insights into customer motivations. 
 
 
  **Project 4: Telemedicine’s Impact on Patient Access and Satisfaction:**
