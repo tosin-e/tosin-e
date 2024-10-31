@@ -1,5 +1,5 @@
  # Hi, I'm Tosin!
-I am interested in **Data Analysis**, specifically in exploring trends and insights. I'm currently learning **Python** and **SQL** to enhance my data analysis skills.
+I am passionate about **Data Analysis**, with a focus on exploring trends and insights. Currently, I am enhancing my skills in **Python**, **Tableau**, and **SQL** to further my data analysis capabilities.
 
 ---
 
