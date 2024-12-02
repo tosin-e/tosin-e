@@ -6,7 +6,7 @@ I am passionate about **Data Analysis**, with a focus on exploring trends and in
 ###  Data Analysis Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my data analysis skills and apply my learning in practical scenarios:*
 
- ###  Project 1: Transfer Fees vs. Player Performance: A Data-Driven Analysis: (In Progress)
+ ###  Project 1: Transfer Fees vs. Player Performance: A Data-Driven Analysis:
 Investigating the relationship between football transfer fees and player performance metrics through:
 - Web scraping and data cleaning
 - Exploratory data analysis (EDA)
