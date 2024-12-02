@@ -37,7 +37,6 @@ This project is in progress, where I am learning to analyze business growth thro
 ### 🤳🏼 Connect with Me
 - Email: [tosin.awofuwa@gmail.com](mailto:tosin.awofuwa@gmail.com)
 - LinkedIn: [linkedin.com/in/tosinawofuwa](http://linkedin.com/in/tosinawofuwa)
-- Portfolio: [tosinsportfolio.b12sites.com](https://tosinsportfolio.b12sites.com/index#home)
 
 ---
 
