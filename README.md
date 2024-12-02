@@ -19,6 +19,7 @@ This project explores how the financial investments made in player transfers cor
 ### Files:
 - **Jupyter Notebook**: [football_project_analysis.ipynb](football_project_analysis.ipynb)
 - **Original Dataset**: [footballproject.xlsx](footballproject.xlsx)
+- **Comprehensuve Report**: [transfer fees vs. player performance](transfer%20fees%20vs.%20player%20performance.md)
 - **Cleaned Dataset**: [cleaned_footballproject.xlsx](cleaned_footballproject.xlsx)
 
 ---
