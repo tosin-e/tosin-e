@@ -19,9 +19,9 @@ This project explores how the financial investments made in player transfers cor
 ### Files:
 - **Jupyter Notebook**: [football_project_analysis.ipynb](football_project_analysis.ipynb)
 - **Original Dataset**: [footballproject.xlsx](footballproject.xlsx)
-- **Comprehensuve Report**: [transfer fees vs. player performance](https://github.com/tosin-e/tosin-e/blob/main/Transfer%20Fees%20vs.%20Player%20Performance.md)
+- **Comprehensive Report**: [transfer fees vs. player performance](https://github.com/tosin-e/tosin-e/blob/main/Transfer%20Fees%20vs.%20Player%20Performance.md)
 
-- **Cleaned Dataset**: [cleaned_footballproject.xlsx](cleaned_footballproject.xlsx)
+- **Cleaned Dataset**: [cleaned_footballproject.xlsx](https://github.com/tosin-e/tosin-e/blob/main/cleaned_footballproject.xlsx)
 
 ---
 
