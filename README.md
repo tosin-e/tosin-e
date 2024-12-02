@@ -1,4 +1,4 @@
-# Hi, I'm Tosin!
+  # Hi, I'm Tosin!
 
 I am passionate about **Data Analysis**, with a focus on exploring trends and insights. Currently, I am enhancing my skills in **Python**, **Tableau**, and **SQL** to further my data analysis capabilities.
 
@@ -24,7 +24,7 @@ This project explores how the financial investments made in player transfers cor
 
 ---
 
-## Project 2: Effective Strategies for Boosting Online Traffic and Business Growth (In Progress)
+## Effective Strategies for Boosting Online Traffic and Business Growth (In Progress)
 
 Identifying effective strategies for online growth by analyzing:
 - Website performance data
