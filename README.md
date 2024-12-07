@@ -18,11 +18,11 @@ This project focuses on transforming raw sales and customer data into actionable
 - **Data Visualization**: Tableau
 
 ### Project Files:
-- **Original Dataset**: [Original_Sales_Data](https://github.com/tosin-e/tosin-e/blob/1526861241b1477ae31de728b9b589392fcb524e/ecommerce_sales_analysis.pdf)
-- **Cleaned Dataset**: [Cleaned_Sales_Data.csv](https://github.com/tosin-e/tosin-e/blob/main/Cleaned_Sales_Data.csv)
-- **Sales Trends Analysis**: [SQL Queries](Sales_Trends_Analysis.sql)
-- **Visuals**: [Tableau Visuals](https://github.com/tosin-e/tosin-e/blob/main/Visualizations.md)
-- **Comprehensive Report**:
+- [Original_Sales_Data](https://github.com/tosin-e/tosin-e/blob/1526861241b1477ae31de728b9b589392fcb524e/ecommerce_sales_analysis.pdf)
+- [Cleaned_Sales_Data.csv](https://github.com/tosin-e/tosin-e/blob/main/Cleaned_Sales_Data.csv)
+- [SQL Queries](Sales_Trends_Analysis.sql)
+- [Tableau Visuals](https://github.com/tosin-e/tosin-e/blob/main/Visualizations.md)
+- [Comprehensive Report](https://github.com/tosin-e/tosin-e/blob/main/sales%20and%20growth%20analysis.md)
   
 ---
 
