@@ -102,6 +102,19 @@ Created visualizations included:
    - Investigate root causes of dips in May and February.
    - Ensure consistent stock availability and adjust pricing strategies.
 
+  
+   ---
+
+
+## Project Journey & Reflections
+
+Throughout this project, I encountered several challenges. From data cleaning and structuring to troubleshooting Tableau visualizations, the project required perseverance and a problem-solving mindset. Here’s a reflection on the process:
+
+- Data Extraction Issues: I initially struggled with extracting data from PDFs. The tools I used didn’t work as expected, but I overcame this by pivoting to OCR technology and Python-based solutions, which allowed me to extract and clean the data.
+- Data Cleaning Process: There were various issues with missing data, inconsistent values, and duplicate entries. I employed SQL and Python to clean and prepare the dataset for analysis. This taught me how important proper data preparation is for accurate analysis.
+- Visualization Struggles: When I first started visualizing the data in Tableau, it was overwhelming. I had to experiment with different chart types, colors, and labels. Over time, I became more comfortable with the tool, and it became clear how effective visualizations are in uncovering hidden trends.
+
+
 ## Files
 - [Original Dataset (PDF)](https://github.com/tosin-e/tosin-e/blob/1526861241b1477ae31de728b9b589392fcb524e/ecommerce_sales_analysis.pdf)
 - [Cleaned Dataset (CSV)](https://github.com/tosin-e/tosin-e/blob/main/Cleaned_Sales_Data.csv)
