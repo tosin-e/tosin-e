@@ -1,13 +1,11 @@
 # Hi, I'm Tosin!
 
-I am passionate about **Data Analysis**, with a focus on exploring trends and insights. Currently, I am enhancing my skills in **Python**, **Tableau**, and **SQL** to further my data analysis capabilities.
+I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, with a focus on exploring trends, insights, and building intelligent systems. Currently, I am enhancing my skills in **Python**, **Tableau**, **SQL**, and **NLP** to further my capabilities in both data-driven analysis and AI development.
 
----
+### Personal Projects
+*These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
 
-### Data Analysis Projects
-*These are personal projects I am currently working on or planning to undertake to enhance my data analysis skills and apply my learning in practical scenarios:*
-
-## Sales & Business Growth Analysis 
+## Sales & Business Growth Analysis
 
 ### Project Description:
 This project focuses on transforming raw sales and customer data into actionable insights for business growth. Through a combination of data extraction, cleaning, and visualization, I analyzed key metrics such as product sales, customer feedback, and sales trends over time. This project also highlights practical business insights, helping companies optimize their product strategies, improve customer satisfaction, and make data-driven decisions.
@@ -44,6 +42,20 @@ This project investigates the relationship between football transfer fees and pl
 
 ---
 
+## AI Chatbot (Ongoing)
+
+### Project Overview:
+This project is focused on building a simple, rule-based AI chatbot using Python. The goal is to create a basic text-based chatbot that can respond to user input with pre-defined responses. This project will start simple, and later expand to include more advanced features like NLP and machine learning for smarter conversations.
+
+#### Tools and Technologies:
+- **Programming Language**: Python
+- **Libraries**: NLTK, ChatterBot
+- **Framework**: Simple, rule-based responses to start
+
+Stay tuned for updates as I build and improve the chatbot!
+
+---
+
 ### 🤳🏼 Connect with Me
 - **Email**: [tosin.awofuwa@gmail.com](mailto:tosin.awofuwa@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tosinawofuwa](http://linkedin.com/in/tosinawofuwa)
@@ -53,3 +65,4 @@ This project investigates the relationship between football transfer fees and pl
 ### 👩‍💻 Currently Learning
 - **Python**
 - **SQL**
+- **Natural Language Processing (NLP)**
