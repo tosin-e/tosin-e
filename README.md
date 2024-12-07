@@ -24,7 +24,7 @@ This project explores how the financial investments made in player transfers cor
 
 ---
 
-## Effective Strategies for Boosting Online Traffic and Business Growth (In Progress)
+## Sales Data Analysis Project
 
 Identifying effective strategies for online growth by analyzing:
 - Website performance data
