@@ -42,6 +42,16 @@ This project investigates the relationship between football transfer fees and pl
 - **Jupyter Notebook**: [football_project_analysis.ipynb](football_project_analysis.ipynb)
 - **Comprehensive Report**: [transfer fees vs. player performance](https://github.com/tosin-e/tosin-e/blob/main/Transfer%20Fees%20vs.%20Player%20Performance.md)
 
+ ## Challenges Faced and Lessons Learned
+
+This project was a journey filled with both successes and challenges:
+- **Data Extraction**: I initially faced challenges extracting data from the PDF using tools like Camelot and Tabula. I had to adjust my approach and leverage OCR, which taught me a lot about unstructured data and the limitations of certain tools.
+- **Data Cleaning**: After extraction, I encountered messy columns and inconsistent values. Power Query and Excel helped me clean the data and align months correctly, but it took a few attempts to get it right.
+- **SQL Integration**: While SQL provided powerful tools for analyzing the data, the syntax and aggregation queries required several iterations before I could aggregate the data correctly for business insights.
+
+Despite these setbacks, the project taught me the importance of persistence and creative problem-solving, and it provided valuable insights into real-world data analysis challenges.
+
+
 
 ---
 
