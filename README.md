@@ -18,9 +18,11 @@ This project focuses on transforming raw sales and customer data into actionable
 - **Data Visualization**: Tableau
 
 ### Project Files:
-- **Cleaned_Sales_Data.csv**: The cleaned dataset after extraction and processing.
+- **Original Dataset**:
+- **Cleaned Dataset**: [Cleaned_Sales_Data.csv](https://github.com/tosin-e/tosin-e/blob/main/Cleaned_Sales_Data.csv)
 - **Sales_Trends_Analysis.sql**: SQL queries used to extract key sales data.
-- **Tableau_Visuals/**: Folder containing Tableau dashboards and visualizations.
+- **Tableau Visuals**: Folder containing Tableau dashboards and visualizations.
+  
 
 ---
 
@@ -35,10 +37,11 @@ This project investigates the relationship between football transfer fees and pl
 - **Data Visualization**: Matplotlib, Seaborn
 
 ### Project Files:
-- **Jupyter Notebook**: [football_project_analysis.ipynb](football_project_analysis.ipynb)
-- **Comprehensive Report**: [transfer fees vs. player performance](https://github.com/tosin-e/tosin-e/blob/main/Transfer%20Fees%20vs.%20Player%20Performance.md)
 - **Original Dataset**: [footballproject.xlsx](https://github.com/tosin-e/tosin-e/blob/main/footballproject.xlsx)
 - **Cleaned Dataset**: [cleaned_footballproject.xlsx](https://github.com/tosin-e/tosin-e/blob/main/cleaned_footballproject.xlsx)
+- **Jupyter Notebook**: [football_project_analysis.ipynb](football_project_analysis.ipynb)
+- **Comprehensive Report**: [transfer fees vs. player performance](https://github.com/tosin-e/tosin-e/blob/main/Transfer%20Fees%20vs.%20Player%20Performance.md)
+
 
 ---
 
