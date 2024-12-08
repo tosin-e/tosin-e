@@ -1,4 +1,4 @@
-# Sales and Growth Analysis
+# Sales and Business Growth Analysis
 
 ## Introduction
 
