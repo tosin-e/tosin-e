@@ -30,10 +30,10 @@ This project focuses on transforming raw sales and customer data into actionable
 This project investigates the relationship between football transfer fees and player performance metrics. By analyzing historical transfer fee data and corresponding player performance, I aim to uncover patterns and insights that could inform future transfer decisions for football clubs. The project analyzed how player performance (goals, assists, etc.) correlates with transfer fees, helping clubs make data-backed investment decisions. It identifies top-performing players relative to their transfer fees and highlights underperforming players based on high transfer costs.
 
 #### Tools and Technologies:
-- **Data Extraction & Cleaning**: Python (Pandas)
+- **Data Processing & Cleaning**: Python (Pandas, scikit-learn)
 - **Data Analysis**: Python (NumPy)
 - **Data Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: scikit-learn
+- **Modeling & Evaluation**: scikit-learn (LinearRegression, Metrics)
 
 ### Project Files:
 - **Original Dataset**: [footballproject.xlsx](https://github.com/tosin-e/tosin-e/blob/main/footballproject.xlsx)
