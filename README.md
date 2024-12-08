@@ -27,7 +27,7 @@ This project focuses on transforming raw sales and customer data into actionable
 ## Transfer Fees vs. Player Performance: A Data-Driven Analysis
 
 ### Project Description:
-This project investigates the relationship between football transfer fees and player performance metrics. By analyzing historical transfer fee data and corresponding player performance, I aim to uncover patterns and insights that could inform future transfer decisions for football clubs. The project analyzed how player performance (goals, assists, etc.) correlates with transfer fees, helping clubs make data-backed investment decisions. It identifies top-performing players relative to their transfer fees and highlights underperforming players based on high transfer costs.
+This project examines the relationship between current football transfer fees and player performance metrics. It identifies patterns to inform transfer decisions, highlighting top-performing players relative to their fees and underperformers with high transfer costs.
 
 #### Tools and Technologies:
 - **Data Processing & Cleaning**: Python (Pandas, scikit-learn)
