@@ -43,22 +43,18 @@ This project examines the relationship between current football transfer fees an
 
 ---
 
-# AI Summarization Bot (Elsa)
+## AI Summarization Bot (Elsa)
 
-## Project Overview
+### Project Description
 This project is dedicated to building Elsa, an AI assistant designed to make your work more concise and efficient. Elsa can summarize long documents, highlight key takeaways, and integrate seamlessly with platforms like Slack, email, and even voice-to-text. Initially, the focus is on providing clear and concise summaries, and over time, the bot will evolve with advanced features to enhance user experience. Perfect for students, professionals, and content creators, Elsa helps save time and stay organized.
 
----
-
-## Features  
+#### Features  
 - **Text Summarization**: Generate concise, easy-to-read summaries from long documents, articles, or any other text.  
 - **Key Takeaways Extraction**: Elsa identifies and highlights the most important points from the content.  
 - **Platform Integrations**: Elsa can connect with Slack, email, and more to provide seamless summarizing.  
 - **Voice-to-Text Support (Coming Soon)**: Elsa will be able to transcribe and summarize voice notes.  
 
----
-
-## Tools and Technologies  
+#### Tools and Technologies  
 - **Programming Language**: Python  
 - **Libraries**:  
    - **Transformers**: For advanced text summarization (using models like GPT or T5).  
@@ -66,13 +62,13 @@ This project is dedicated to building Elsa, an AI assistant designed to make you
    - **Slack SDK & Email API**: For platform integrations.  
    - **Python-docx & PyPDF2**: For extracting and summarizing text from Word documents and PDFs.  
 
----
-
-## Installation and Setup  
+#### Installation and Setup  
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/elsa-summary-bot.git
    cd elsa-summary-bot
+
+#### This project is licensed under the MIT License - see the [LICENSE](https://github.com/tosin-e/tosin-e/blob/main/LICENSE) file for details.
 
 ---
 
