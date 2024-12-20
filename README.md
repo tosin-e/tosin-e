@@ -6,8 +6,6 @@ I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, wi
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
 
 ## Sales & Business Growth Analysis
-
-### Project Description:
 This project focuses on transforming raw sales and customer data into actionable insights for business growth. Through a combination of data extraction, cleaning, and visualization, I analyzed key metrics such as product sales, customer feedback, and sales trends over time. This project also highlights practical business insights, helping companies optimize their product strategies, improve customer satisfaction, and make data-driven decisions.
 
 #### Tools and Technologies:
@@ -25,8 +23,6 @@ This project focuses on transforming raw sales and customer data into actionable
 ---
 
 ## Transfer Fees vs. Player Performance: A Data-Driven Analysis
-
-### Project Description:
 This project examines the relationship between current football transfer fees and player performance metrics. It identifies patterns to inform transfer decisions, highlighting top-performing players relative to their fees and underperformers with high transfer costs.
 
 #### Tools and Technologies:
@@ -43,11 +39,9 @@ This project examines the relationship between current football transfer fees an
 
 ---
 
-## Elsa - AI Summarization Bot(Ongoing)
+## Elsa
+Elsa is an AI-powered summarizer that condenses long documents into key points. It integrates with platforms like Slack and email for easy access. Built with Python and using libraries like Transformers. Elsa helps users save time and stay organized.
 
-### Project Description:
-Elsa is an AI assistant that summarizes long documents and extracts key takeaways. It integrates with platforms like Slack and email, and will soon support voice-to-text for transcribing voice notes. Built with Python, it uses libraries like Transformers for summarization and SpeechRecognition for future voice features. Elsa helps users save time and stay organized.
- 
 #### This project is licensed under the MIT License - see the [LICENSE](https://github.com/tosin-e/tosin-e/blob/main/LICENSE) file for details.
 
 ---
