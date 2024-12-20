@@ -41,7 +41,7 @@ This project examines the relationship between current football transfer fees an
 
 ## Elsa
 Elsa is an AI-powered summarizer that condenses long documents into key points. It integrates with platforms like Slack and email for easy access. Built with Python and using libraries like Transformers. Elsa helps users save time and stay organized.
-
+https://tosin-e-elsa-summarizer.hf.space
 #### This project is licensed under the MIT License - see the [LICENSE](https://github.com/tosin-e/tosin-e/blob/main/LICENSE) file for details.
 
 ---
