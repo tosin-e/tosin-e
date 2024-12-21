@@ -1,7 +1,7 @@
 ## Comprehensive Report on Elsa
 
 ### Overview  
-Elsa is a responsive web application designed to condense lengthy documents into concise summaries. It leverages Hugging Face for accessibility and utilizes a Python-based back-end powered by PyTorch and Transformers for natural language processing. The tool reduces text length by up to 80% while preserving key information, enhancing data usability.
+Elsa is a responsive web application designed to condense lengthy documents into concise summaries.  The tool reduces text length by up to 80% while preserving key information, enhancing data usability.
 
 #### Technologies Used  
 - **Programming Language**: Python  
