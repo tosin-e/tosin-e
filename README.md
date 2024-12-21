@@ -6,7 +6,7 @@ I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, wi
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
 
 ## [Elsa](https://tosin-e-elsa-summarizer.hf.space)  
-Elsa is an AI-powered text summarizer that condenses lengthy documents into concise summaries. It features a responsive front-end built with HTML and CSS, a Python back-end utilizing advanced natural language processing with Transformers and PyTorch, and is deployed via a seamless web interface.
+Elsa is an AI-powered text summarizer that condenses lengthy documents into concise summaries using advanced NLP techniques with Transformers and PyTorch. It's accessible via a web interface powered by Gradio and Hugging Face. 
 
 [Comprehensive Report](https://github.com/tosin-e/tosin-e/blob/main/comprehensive-report.md)
 
