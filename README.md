@@ -5,7 +5,7 @@ I am passionate about Data Analysis and Artificial Intelligence (AI), with a foc
 ## Personal Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
 
-## AI-Driven Data Governance & Compliance Framework (Ongoing)
+## AI Governance Suite: Privacy, Compliance, and Data Integrity (Ongoing)
 This project leverages AI to automate data governance tasks, including data quality checks, security, and compliance. Using machine learning, it analyzes datasets to identify anomalies, enforce policies, and ensure data integrity, minimizing manual effort.
 
 ## AI Summarizer ([Elsa](https://tosin-e-elsa-summarizer.hf.space))
