@@ -1,10 +1,10 @@
-# Sales and Business Growth Analysis
+# Sales and Business Growth Analysis (E-commerce)
 
 ## Introduction
 
-I embarked on an exciting project to analyze **sales trends** and **growth patterns** in order to uncover actionable insights that can help businesses thrive. By cleaning and structuring the raw data, conducting in-depth **SQL analysis**, and visualizing key trends using **Tableau**, this project focuses on understanding how to optimize sales strategies for better profitability.
+I embarked on an exciting project to analyze sales trends and growth patterns within an e-commerce dataset. The goal was to uncover actionable insights that businesses can leverage to thrive. By cleaning and structuring raw data, conducting in-depth SQL analysis, and visualizing key trends with Tableau, this project explores strategies to optimize sales and enhance profitability.
 
-Through this analysis, I not only honed my skills in SQL and data visualization but also gained deeper insights into how businesses can leverage data to make **smarter decisions** and drive growth. Here’s a breakdown of how I approached the analysis and what insights can be drawn from the data.
+Through this analysis, I sharpened my skills in SQL and data visualization while gaining a deeper understanding of how businesses can use data to make informed decisions and drive growth. Below, I provide a detailed breakdown of my approach and the insights drawn from the data.
 
 ## Datasets and Resources
 
