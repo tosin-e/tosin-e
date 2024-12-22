@@ -1,6 +1,6 @@
 # Hi, I'm Tosin!
 
-I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, with a focus on exploring trends, insights, and building intelligent systems. Currently, I am enhancing my skills in **Python**, **Tableau**, **SQL**, and **NLP** to further my capabilities in both data-driven analysis and AI development.
+I am passionate about Data Analysis and Artificial Intelligence (AI), with a focus on exploring trends, insights, and building intelligent systems. I am equally committed to ensuring the ethical, responsible, and transparent use of technology through AI and data governance. Currently, I am enhancing my skills in Python, SQL, NLP, and tools like Tableau to further my capabilities in both data-driven analysis and AI development, while also deepening my understanding of privacy regulations, AI ethics, and governance frameworks.
 
 ## Personal Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
