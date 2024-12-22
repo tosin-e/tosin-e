@@ -13,7 +13,7 @@ Elsa is an AI-powered text summarizer that condenses lengthy documents into conc
 ---
 
 ## Sales & Business Growth Analysis (E-commerce)
-This project focuses on transforming raw sales and customer data into actionable insights for business growth. Through a combination of data extraction, cleaning, and visualization, I analyzed key metrics such as product sales, customer feedback, and sales trends over time. This project also highlights practical business insights, helping companies optimize their product strategies, improve customer satisfaction, and make data-driven decisions.
+This project focuses on transforming raw e-commerce sales and customer data into actionable insights to drive business growth. By leveraging data extraction, cleaning, and visualization techniques, I analyzed key metrics, including product sales, customer feedback, and sales trends over time. The analysis provides practical insights to help e-commerce businesses optimize product strategies, enhance customer satisfaction, and make informed, data-driven decisions.
 
 #### Tools and Technologies:
 - **Data Extraction & Cleaning**: Python (Pandas, Matplotlib), Excel Power Query
