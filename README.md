@@ -2,8 +2,11 @@
 
 I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, with a focus on exploring trends, insights, and building intelligent systems. Currently, I am enhancing my skills in **Python**, **Tableau**, **SQL**, and **NLP** to further my capabilities in both data-driven analysis and AI development.
 
-### Personal Projects
+## Personal Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
+
+## AI-Driven Data Governance System (Ongoing)
+This project leverages AI to automate data governance tasks, including data quality checks, security, and compliance. Using machine learning, it analyzes datasets to identify anomalies, enforce policies, and ensure data integrity, minimizing manual effort.
 
 ## [Elsa](https://tosin-e-elsa-summarizer.hf.space)  
 Elsa is an AI-powered text summarizer that condenses lengthy documents into concise summaries using advanced NLP techniques with Transformers and PyTorch. It's accessible via a web interface powered by Gradio and Hugging Face. 
