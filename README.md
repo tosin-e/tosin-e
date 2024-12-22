@@ -9,7 +9,7 @@ I am passionate about **Data Analysis** and **Artificial Intelligence (AI)**, wi
 This project leverages AI to automate data governance tasks, including data quality checks, security, and compliance. Using machine learning, it analyzes datasets to identify anomalies, enforce policies, and ensure data integrity, minimizing manual effort.
 
 ## [Elsa](https://tosin-e-elsa-summarizer.hf.space)  
-Elsa is an AI-powered text summarizer that condenses lengthy documents into concise summaries using advanced NLP techniques with Transformers and PyTorch. It's accessible via a web interface powered by Gradio and Hugging Face. 
+Elsa is an AI-powered text summarizer that condenses lengthy documents into concise summaries using advanced NLP techniques with Transformers and PyTorch. This project showcases my skills in Natural Language Processing (NLP) and AI, leveraging state-of-the-art machine learning models for efficient text summarization. It's accessible via a web interface powered by Gradio and Hugging Face.
 
 [Comprehensive Report](https://github.com/tosin-e/tosin-e/blob/main/comprehensive-report.md)
 
