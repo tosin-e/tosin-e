@@ -1,9 +1,14 @@
 # Hi, I'm Tosin!
 
-I am passionate about Data Analysis and Artificial Intelligence (AI), with a focus on exploring trends, insights, and building intelligent systems. I am equally committed to ensuring the ethical, responsible, and transparent use of technology through AI and data governance. Currently, I am enhancing my skills in Python, SQL, NLP, and tools like Tableau to further my capabilities in both data-driven analysis and AI development, while also deepening my understanding of privacy regulations, AI ethics, and governance frameworks.
+I am passionate about Data Analysis, Artificial Intelligence (AI), and the ethical use of technology. My focus lies in exploring trends, uncovering insights, and developing intelligent systems that drive real-world impact. I am equally dedicated to ensuring the responsible, transparent, and compliant use of data, particularly within the realms of AI governance and privacy regulations. Currently, I am honing my skills in Python, SQL, NLP, and tools like Tableau to strengthen my ability to build data-driven solutions while deepening my understanding of AI ethics and data governance frameworks. One thing about me is that I’m always excited to learn and grow, embracing new challenges and technologies.
+
+Feel free to scroll down and explore my projects to see how I apply these skills in real-world scenarios.
 
 ## Personal Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
+
+## Security Incident Prediction Using SQL and Python on the Microsoft GUIDE Dataset (In-Progress)
+Currently building a predictive model for cybersecurity incident triage using the Microsoft GUIDE dataset. Utilizing SQL for data processing and Python with machine learning techniques to forecast incidents and improve response workflows. This ongoing project enhances my skills in data analysis and machine learning within cybersecurity.
 
 ## [AI Governance Suite](https://huggingface.co/spaces/tosin-e/Data-Gov-Tool): Privacy, Compliance, and Data Integrity 
 This project leverages AI to automate data governance tasks, including data quality checks, security, and compliance. Using machine learning, it analyzes datasets to identify anomalies, enforce policies, and ensure data integrity, minimizing manual effort.
