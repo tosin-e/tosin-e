@@ -7,9 +7,6 @@ Feel free to scroll down and explore my projects to see how I apply these skills
 ## Personal Projects
 *These are personal projects I am currently working on or planning to undertake to enhance my skills and apply my learning in practical scenarios:*
 
-## Security Incident Prediction Using SQL and Python on the Microsoft GUIDE Dataset (In-Progress)
-Currently building a predictive model for cybersecurity incident triage using the Microsoft GUIDE dataset. Utilizing SQL for data processing and Python with machine learning techniques to forecast incidents and improve response workflows. This ongoing project enhances my skills in data analysis and machine learning within cybersecurity.
-
 ## [AI Governance Suite](https://huggingface.co/spaces/tosin-e/Data-Gov-Tool): Privacy, Compliance, and Data Integrity 
 This project leverages AI to automate data governance tasks, including data quality checks, security, and compliance. Using machine learning, it analyzes datasets to identify anomalies, enforce policies, and ensure data integrity, minimizing manual effort.
 
